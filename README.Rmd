@@ -25,7 +25,7 @@ remotes::install_github("dgrtwo/knowledgerepo")
 You'll also need to install the [knowledge_repo](https://github.com/airbnb/knowledge-repo) Python package from your terminal.
 
 ```
-[sudo] pip install --upgrade knowledge-repo
+pip install --upgrade [--user] knowledge-repo
 ```
 
 ## Usage
